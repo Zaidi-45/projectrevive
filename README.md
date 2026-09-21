@@ -1,6 +1,6 @@
-==================================================
+
 Project Revive - Openspy Menusystem & Multiplayer Guide
-==================================================
+
 
 This zip ONLY contains menusystem.res to comply with ModDB hosting rules.
 
